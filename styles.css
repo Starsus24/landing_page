@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.center {
+    width: 700px;
+}
+
+.container {
+    height: 400px;
+    background-color: #1F2937;
+    justify-content: center;
+    display: flex;
+}
+
+.header {
+    height: 50px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    align-content: center;
+}
+
+.links {
+    width: 250px;
+    font-size: 18px;
+    color: #E5E7EB;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    display: flex;
+}
